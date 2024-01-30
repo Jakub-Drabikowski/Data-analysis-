@@ -1,7 +1,7 @@
 # Data analysis
 
 # Wstęp
-Projekt ten skupia się na analizie zbioru danych dotyczącego filmów. Celem analizy jest zrozumienie różnych aspektów związanych z filmami, takich jak kategorie, oceny, dochody oraz inne statystyki.
+Projekt ten skupia się na analizie zbioru danych dotyczącego filmów. Celem analizy jest zrozumienie różnych aspektów związanych z filmami, takich jak kategorie, oceny, dochody oraz inne statystyki. Do opracowania wykorzystano środowisko Jupyter Notebook, poniżej zamieszczono kilka przykładowych wykresów i linijek kodu, a cała analiza znajduję się w pliku Movies_rating.
 
 #Źródło danych
 https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
