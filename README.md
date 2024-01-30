@@ -3,6 +3,10 @@
 # Wstęp
 Projekt ten skupia się na analizie zbioru danych dotyczącego filmów. Celem analizy jest zrozumienie różnych aspektów związanych z filmami, takich jak kategorie, oceny, dochody oraz inne statystyki.
 
+#Źródło danych
+https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
+Autorzy i współtwórcy: Harshit Shankhdhar
+
 # Kroki Analizy:
 Załadowanie bibliotek i danych:
 Wykorzystano biblioteki takie jak NumPy, Pandas, Matplotlib, Seaborn i WordCloud.
